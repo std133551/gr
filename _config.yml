@@ -15,9 +15,9 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://mibook.github.io"
+url                      : "https://std133551.github.io"
 baseurl                  : "/gr"
-repository               : "mibook/gr"
+repository               : "std133551/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -60,20 +60,20 @@ social:
 
 # Site Author
 author:
-  name             : "Making Interactivity Greek Book"
+  name             : "Making Interactivity Greek Book (assignment adaptation)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         :
   email            :
   uri              :
-  home             : "http://mibook.org/gr"
+  home             :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mibook"
+  github           : "std133551"
   gitlab           :
   google_plus      :
   keybase          :
